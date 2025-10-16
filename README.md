@@ -26,7 +26,7 @@
 
 #### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,mysql,azure" alt="Tools Icons" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman,mysql" alt="Tools Icons" />
 </p>
 
 ---
