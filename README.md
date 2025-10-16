@@ -104,12 +104,6 @@ RESTful API Design | JWT Authentication | Clean Architecture | Entity Framework 
 
 ---
 
-### 📊 *GitHub Stats*
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=muhammedrahil&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedrahil&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
----
 
 <h4 align="center">💡 “Turning ideas into impactful applications — one commit at a time.”</h4>
